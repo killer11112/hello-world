@@ -1,2 +1,3 @@
 # hello-world
-a smaple program
+一个简单的程序
+write new one test
